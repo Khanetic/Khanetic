@@ -1,4 +1,14 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Mohammed Rizwan</h1>
+<h3 align="center">Software Engineer · Agentic AI · Brain-Computer Interfaces · Embedded Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Myrix+Labs;Agentic+AI+%26+Multi-Agent+Systems;EEG+%2F+Brain-Computer+Interface+Researcher;FastAPI+%7C+Python+%7C+Playwright+%7C+LangChain" alt="Typing SVG" />
+</p>
+
+
+
+
+
 # 👋 Hi, I'm Mohammed Rizwan<br><br>[cite_start]I am a **Software Engineer** at **Myrix Labs**, where I focus on building deep-tech AI systems inspired by nature’s intelligence. [cite_start]I bridge the gap between complex signal processing and scalable AI ecosystems.<br><br>### 🛠️ What I'm working on:<br>* [cite_start]**Agentic AI:** Designing multi-agent frameworks for autonomous decision-making and adaptive system behavior.<br>* [cite_start]**Backend Development:** Building high-performance services using **FastAPI** to streamline data flow.<br>* [cite_start]**Automation:** Implementing **Playwright**-based test suites to reduce manual QA effort and accelerate release cycles.<br>* [cite_start]**Brain-Computer Interfaces (BCI):** Researching EEG signal processing for vehicle control in the **CARLA simulator**.<br><br>### 💻 My Tech Stack:<br>* [cite_start]**Languages:** Python, JavaScript, Next.js.<br>* [cite_start]**AI & ML:** Agentic AI, RAG (Retrieval-Augmented Generation), Machine Learning Classification.<br>* [cite_start]**Tools:** FastAPI, Playwright, Git, Signal Processing (EEG).<br><br>### 🎓 Education & Research:<br>* **M.Eng in Embedded Systems Engineering** | [cite_start]University of Applied Sciences and Arts Dortmund.<br>* **B.Tech in Electronics and Communications Engineering** | [cite_start]Jamia Hamdard.<br><br>---<br>### 📫 How to reach me:<br>* [cite_start]**LinkedIn:** [linkedin.com/in/mohammedrizwan0909](https://www.linkedin.com/in/mohammedrizwan0909) <br>* [cite_start]**Email:** [mohammedrizwan0909@gmail.com](mailto:mohammedrizwan0909@gmail.com)
 
 
