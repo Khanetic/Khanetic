@@ -64,45 +64,12 @@ I care deeply about code that is clean, scalable, and purposeful. Whether I'm bu
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [EEG-Controlled Vehicle in CARLA Simulator](https://github.com/mohammedrizwan0909)
-> Real-time Brain-Computer Interface for autonomous vehicle control using mental commands
-- Binary classification of EEG motor execution signals → "go" / "stop" commands
-- Signal pipeline: re-referencing → bandpass → notch filter → ICA → classification
-- Integrated live with CARLA simulator using Unicorn Hybrid Black EEG headset
-- **Stack:** Python · EEG Signal Processing · Machine Learning · CARLA · ICA
-
----
-
-### 📧 [Open-Unroll: AI-Powered Gmail Assistant](https://github.com/mohammedrizwan0909)
-> LLM-powered email automation with 95% phishing detection accuracy
-- Processed 1,000+ emails; reduced management time by 70%
-- Conversational NLP interface with smart unsubscribe & cleanup workflows
-- **Stack:** Python · LangChain · ChatGroq · Streamlit
-
----
-
-### 💬 [Personal Knowledge Assistant](https://github.com/mohammedrizwan0909)
-> RAG-based document Q&A system with persistent vector memory
-- Multi-file ingestion, semantic search, and context-aware responses
-- **Stack:** LangChain · OpenAI · ChromaDB · Pinecone · Streamlit
-
----
-
-### 🏎️ [JetRacer Autonomous AI Racecar](https://github.com/mohammedrizwan0909)
-> Edge AI autonomous navigation on NVIDIA Jetson Nano
-- 30 FPS real-time inference, 95% track completion rate
-- 40% latency reduction via TensorRT optimization on 10K+ training images
-- **Stack:** PyTorch · ResNet-18 · TensorRT · NVIDIA Jetson Nano
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizwan0909&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizwan0909&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanetic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanetic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
 <p align="center">
