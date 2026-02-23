@@ -93,9 +93,9 @@ I build things that work at scale — autonomous AI agents, RAG pipelines, LLM-p
 
 <div align="center">
 
-[![ServiceNow CSA](https://img.shields.io/badge/✅%20ServiceNow%20Certified%20System%20Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.credly.com/org/servicenow/badge/certified-system-administrator)
+[![ServiceNow CSA](https://img.shields.io/badge/✅%20ServiceNow%20Certified%20System%20Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/ServiceNow%20Certified%20System%20Administrator%20(CSA)_page-0001.jpg)
 
-[![ML Specialization](https://img.shields.io/badge/✅%20Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+[![ML Specialization](https://img.shields.io/badge/✅%20Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/Coursera%20CY8DV2PQ4A7J.pdf)
 
 [![Python Developer](https://img.shields.io/badge/✅%20Complete%20Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
