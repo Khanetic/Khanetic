@@ -93,17 +93,17 @@ I build things that work at scale — autonomous AI agents, RAG pipelines, LLM-p
 
 <div align="center">
 
-[![ServiceNow CSA](https://img.shields.io/badge/✅%20ServiceNow%20Certified%20System%20Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/ServiceNow%20Certified%20System%20Administrator%20(CSA)_page-0001.jpg)
+[![ServiceNow CSA](https://img.shields.io/badge/%20ServiceNow%20Certified%20System%20Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/ServiceNow%20Certified%20System%20Administrator%20(CSA)_page-0001.jpg)
 
-[![ML Specialization](https://img.shields.io/badge/✅%20Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/Coursera%20CY8DV2PQ4A7J.pdf)
+[![ML Specialization](https://img.shields.io/badge/%20Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Khanetic/Certificates/blob/main/Coursera%20CY8DV2PQ4A7J.pdf)
 
-[![Python Developer](https://img.shields.io/badge/✅%20Complete%20Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+[![Python Developer](https://img.shields.io/badge/%20Complete%20Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 
-[![Technical Support](https://img.shields.io/badge/✅%20Technical%20Support%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/learn/technical-support-fundamentals)
+[![Technical Support](https://img.shields.io/badge/%20Technical%20Support%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/learn/technical-support-fundamentals)
 
-[![Data Science](https://img.shields.io/badge/✅%20What%20is%20Data%20Science-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/what-is-datascience)
+[![Data Science](https://img.shields.io/badge/%20What%20is%20Data%20Science-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learn/what-is-datascience)
 
-[![Pandas](https://img.shields.io/badge/✅%20Pandas%20Certification-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://www.kaggle.com/learn/pandas)
+[![Pandas](https://img.shields.io/badge/%20Pandas%20Certification-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://www.kaggle.com/learn/pandas)
 
 </div>
 
@@ -112,13 +112,21 @@ I build things that work at scale — autonomous AI agents, RAG pipelines, LLM-p
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khanetic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanetic&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Khanetic&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khanetic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=7C3AED" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanetic&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00D9FF" />
 </div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Khanetic&theme=tokyonight&hide_border=true&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
-</div>
+</div> -->
 
 ---
 
