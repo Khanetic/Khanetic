@@ -110,14 +110,18 @@ I build things that work at scale — autonomous AI agents, RAG pipelines, LLM-p
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khanetic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanetic&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanetic&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khanetic&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanetic&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khanetic&theme=tokyonight" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Khanetic&theme=tokyonight&hide_border=true" />
 </div>
+
 
 <!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khanetic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=7C3AED" />
