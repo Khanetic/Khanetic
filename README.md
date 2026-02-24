@@ -113,11 +113,11 @@ I build things that work at scale — autonomous AI agents, RAG pipelines, LLM-p
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khanetic&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khanetic&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanetic&theme=tokyonight" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khanetic&theme=tokyonight" /> -->
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khanetic&theme=tokyonight" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Khanetic&theme=tokyonight&hide_border=true" />
 </div>
