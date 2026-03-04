@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Rizwan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Backend%20%7C%20RAG&descAlignY=58&descSize=18&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Rizwan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%7C%20Backend%20%7C%20RAG&descAlignY=58&descSize=18&descColor=a0aec0" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Agentic+AI+%26+Multi-Agent+Frameworks;FastAPI+%7C+Python+%7C+LangChain+%7C+Playwright;ROS2+%7C+Isaac+Sim+%7C+n8n;ServiceNow+Certified+System+Administrator+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=FastAPI+%7C+Python+%7C+LangChain+%7C+Playwright;ROS2+%7C+Isaac+Sim+%7C+n8n;ServiceNow+Certified+System+Administrator+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
